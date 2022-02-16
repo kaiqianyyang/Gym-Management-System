@@ -1,0 +1,102 @@
+input[id="insNoToDelete"], input[name="deleteSubmit"], input[name="displayTuples"], input[name="displayTuplesForMembership"], input[name="displayTuplesForPackage"] {
+  width: 40%;
+  padding: 20px;
+  margin: 8px 0;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 10px 0px 15px 0px;
+  box-shadow: 1px 1px 2px 1px grey; 
+}
+
+/* Style the input tag - delete */
+input[name="deletePackageSubmit"], input[name="deleteMembershipSubmit"], input[name="deleteProductSubmit"] {
+  width: 40%;
+  padding: 20px;
+  margin: 8px 0;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 10px 0px 15px 0px;
+  box-shadow: 1px 1px 2px 1px grey; 
+}
+
+/* Style the form - display items horizontally */
+.form-inline {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  width: 40%;
+  margin: 8px 0;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 10px 0px 15px 0px;
+}
+/* input */
+input[id="insNoToDelete"] {
+  width: 83%;
+}
+/* input[id="pid"] {
+  width: 83%;
+}
+input[id="entryfee"] {
+  width: 81%;
+}
+input[id="numofsessions" ] {
+  width: 75%;
+}
+input[id="monthlyfee"] {
+  width: 81%;
+}
+input[id="numofmonths" ] {
+  width: 75%;
+} */
+
+/* button for insert */
+/* input[name="insertProductSubmit"] {
+  width: 105%;
+}
+input[name="insertMembershipSubmit"] {
+  width: 105%;
+}
+input[name="insertPackageSubmit"] {
+  width: 105%;
+} */
+/* button for delete */
+input[name="deletePackageSubmit"] {
+  width: 105%;
+}
+input[name="deleteMembershipSubmit"] {
+  width: 105%;
+}
+input[name="deleteProductSubmit"] {
+  width: 105%;
+}
+/* button for display */
+input[name="displayTuples"] {
+  width: 30%;
+}
+input[name="displayTuplesForMembership"] {
+  width: 30%;
+}
+input[name="displayTuplesForPackage"] {
+  width: 30%;
+}
+
+/* Style the font size */
+label {
+  font-size: 20px;
+  margin-left: 4px;
+  margin-right: 24px;
+}
+
+p {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+input[name="pid"], input[id="entryfee"], input[id="numofsessions"], input[id="monthlyfee"], input[id="numofmonths" ], input[name="insertProductSubmit"], input[name="insertPackageSubmit"], input[name="insertMembershipSubmit"] {
+  font-size: 18px;
+}
+
+input[name="deleteMembershipSubmit"], input[name="deletePackageSubmit"], input[name="deleteProductSubmit"], input[id="insNoToDelete"], input[name="deleteSubmit"], input[name="reset"], input[name="displayTuples"], input[name="displayTuplesForMembership"], input[name="displayTuplesForPackage"] {
+  font-size: 18px;
+}
