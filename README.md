@@ -16,3 +16,7 @@ We focus on product types, product orders, and training lesson arrangement betwe
 
 ## Application Platform 
 This project will be implemented using the database management system Oracle, and the programming language that we use will be PHP. We do not anticipate using any special software or hardware for now.
+
+<img title="demo" alt="demo" src="./images/sample0.png">
+<img title="demo" alt="demo" src="./images/sample1.jpeg">
+<img title="demo" alt="demo" src="./images/sample2.png">
