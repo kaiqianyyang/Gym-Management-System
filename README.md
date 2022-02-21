@@ -1,5 +1,5 @@
 
-## CPSC304 Project: Fitness Center Website
+## Gym Management System
 
 Welcome to our CPSC304 project github! 
 
