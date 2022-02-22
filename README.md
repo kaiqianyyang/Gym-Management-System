@@ -1,6 +1,8 @@
 # Gym Management System
 
-Welcome to our CPSC304 project github! This project is built by Kaiqian(Cathy) Yang, Ziyue(Chloe) Zhang, Xinye(Terry) Zhan.
+Welcome to our CPSC304 project github!
+
+Group Members: Kaiqian(Cathy) Yang, Ziyue(Chloe) Zhang, Xinye(Terry) Zhan.
 
 ## Project Website Link
 
