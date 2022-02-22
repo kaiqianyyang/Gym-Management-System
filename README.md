@@ -1,7 +1,10 @@
-
-## Gym Management System
+# Gym Management System
 
 Welcome to our CPSC304 project github! 
+
+## Project Website Link
+
+https://www.students.cs.ubc.ca/~kaiqiany/Project/index.php
 
 ## Description
 The domain we are trying to model is a fitness center. It is aiming to offer users convenience to get access to the information they need about our fitness center and/or their own information. 
